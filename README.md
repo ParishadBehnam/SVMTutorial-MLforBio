@@ -5,6 +5,9 @@ This tutorial covers:
 * training a scikit-learn Support Vector Classifier
 * analyzing the margins and boundaries
 * distinguishing support vectors
+* using different kernels
+* obstacles in classification (high dimension)
+* employing PCA and LDA for dimensionality reduction 
 
 #### Instructors:
 Ali Sharifi - Mohammad Hossein Rohban
