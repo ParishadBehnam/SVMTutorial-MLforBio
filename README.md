@@ -10,6 +10,6 @@ This tutorial covers:
 * employing PCA and LDA for dimensionality reduction 
 
 #### Instructors:
-Ali Sharifi - Mohammad Hossein Rohban
+Ali Sharifi-Zarchi & Mohammad Hossein Rohban
 #### Course Title:
 Machine Learning for Bioinformatics
